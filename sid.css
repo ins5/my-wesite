@@ -1,0 +1,11 @@
+ #sidebar{
+	 background-color :pink;
+	 border:solid 2px white;
+	 
+	 float:right;
+	 width:10%;
+	 margin-left:10px;
+ }
+#sidebarimg{
+	padding-top:20px;
+}
